@@ -1,9 +1,13 @@
 # Alliance-for-Visible-Diversity-in-Science
 
-Hello and welcome to AVDS!
+:sparkles: [**Welcome to Alliance for Visible Diversity in Science!**](http://a4vdis.weebly.com) :sparkles:
+
+This GitHub Repo is our place to organize our website content and other parts of our projects that live online.
+
+Our main point: We are working to add more people of color to our school. We will do this by talking to both our teachers and students to bring more 
 
 ## Our Mission
-Our mission is to improve hiring, retention and support of underrepresented minorities in science. Our efforts target all levels, including students, postdocs and faculty. We hope that our efforts will promote an institution-wide effort to diversify the scientific community.
+Our mission is to increase visible diversity within the graduate programs at Oregon Health & Science University (OHSU). We do this by encouraging the recruitment, hiring, retention and most importantly support of underrepresented minorities. Our efforts target all levels, including students, postdoctoral fellows, staff, and faculty. We hope that our efforts will promote an institution-wide effort to diversify the scientific community.
 
 ## OHSU Initiatives
 
