@@ -1,6 +1,6 @@
 # Alliance-for-Visible-Diversity-in-Science
 
-:sparkles: [**Welcome to Alliance for Visible Diversity in Science!**](http://a4vdis.weebly.com) :sparkles:
+:sparkles: Welcome to the [**Alliance for Visible Diversity in Science!**](http://a4vdis.weebly.com) :sparkles:
 
 This GitHub Repo is our place to organize our website content and other parts of our projects that live online.
 
