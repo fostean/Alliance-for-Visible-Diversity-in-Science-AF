@@ -1,16 +1,8 @@
-# Alliance for Visible Diversity 
-## Roadmap here!
+# Alliance for Visible Diversity in Science
+
 
 ### Stage 1- Project Mission & Summary
 
 ### Stage II-How to get involve
 
-### Stage III- Pick Milestones 
-
-
-
-Luci Changes!
-
-Itallia commit!
-
-HEY YALL!
+### Stage III- Pick Milestones
